@@ -26,7 +26,7 @@ Manipulação de strings
 
 🚀 Objetivo
 
-Esses exercícios fazem parte da minha jornada de aprendizagem em programação C. Eles me ajudam a:
+Esses exercícios fazem parte da minha jornada de aprendizagem em programação C. Eles ajudam a:
 
 Fortalecer conceitos de lógica de programação
 
