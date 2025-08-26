@@ -1,13 +1,14 @@
 💻 Exercícios em C
 
-Este repositório contém meus exercícios práticos desenvolvidos em linguagem C.
-Cada pasta representa um exercício ou mini-projeto focado em lógica, estruturas de dados, funções e interatividade via terminal.
+Este repositório contém meus exercícios práticos desenvolvidos durante meus estudos em linguagem C. Cada pasta representa um exercício ou mini-projeto focado em lógica, estruturas de dados e interatividade via terminal.
 
 📁 Lista de Exercícios
 Exercício	Descrição
-🎲 Jogo de War	Cadastro de territórios usando structs, cor do exército e quantidade de tropas
+Jogo de War
+	Cadastro de territórios usando structs, cor do exército e quantidade de tropas
 
-Futuramente: novos exercícios em C serão adicionados, todos organizados em pastas separadas.
+
+Futuramente: cada item terá sua própria pasta com código .c e README explicativo.
 
 🛠️ Tecnologias Usadas
 
@@ -25,8 +26,7 @@ Manipulação de strings
 
 🚀 Objetivo
 
-Esses exercícios fazem parte da minha jornada de aprendizagem em programação C.
-Eles me ajudam a:
+Esses exercícios fazem parte da minha jornada de aprendizagem em programação C. Eles me ajudam a:
 
 Fortalecer conceitos de lógica de programação
 
