@@ -3,9 +3,11 @@
 Este repositório contém meus exercícios práticos desenvolvidos durante meus estudos em linguagem C. Cada pasta representa um exercício ou mini-projeto focado em lógica, estruturas de dados e interatividade via terminal.
 
 📁 Lista de Exercícios
-Exercício	Descrição
-Jogo de War
-	Cadastro de territórios usando structs, cor do exército e quantidade de tropas
+| Exercício | Descrição |
+|-----------|-----------|
+| [Jogo de War](./exercicio-jogo-war-em-linguagem-C/) | Cadastro de territórios usando structs, cor do exército e quantidade de tropas |
+
+
 
 
 Futuramente: cada item terá sua própria pasta com código .c e README explicativo.
