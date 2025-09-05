@@ -7,7 +7,7 @@ Este repositório contém meus exercícios práticos desenvolvidos durante meus 
 | Exercício          | Descrição                                                                                                                                         |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Jogo de War](./exercicio-jogo-war-em-linguagem-C/) | Cadastro de territórios com `structs`, sistema de missões aleatórias, simulação de ataque com dados, uso de ponteiros e alocação dinâmica de memória |
-| [Mochila Free Fire](https://github.com/FernandoCaldas9/exercicios.c/blob/main/Free-fire-c/free-fire.c) | Sistema de inventário inspirado em jogos de sobrevivência: cadastro de itens (armas, munições, kits médicos), remoção, listagem e busca sequencial utilizando structs e vetores, com interatividade via terminal |
+| [Mochila Free Fire](https://github.com/FernandoCaldas9/exercicios.c/tree/main/Free-fire-c) | Sistema de inventário inspirado em jogos de sobrevivência: cadastro de itens (armas, munições, kits médicos), remoção, listagem e busca sequencial utilizando structs e vetores, com interatividade via terminal |
 
 ## 🛠️ Tecnologias Usadas
 
