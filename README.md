@@ -1,3 +1,7 @@
+💻 Exercícios em C
+
+Este repositório contém meus exercícios práticos desenvolvidos durante meus estudos em linguagem C. Cada pasta representa um exercício ou mini-projeto focado em lógica, estruturas de dados e interatividade via terminal.
+
 📁 Lista de Exercícios
 Exercício	Descrição
 Jogo de War
