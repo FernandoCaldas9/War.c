@@ -9,12 +9,9 @@ estruturas de dados,
 interatividade via terminal.
 
 📁 Lista de Exercícios
-
 Exercício	Descrição
-
 Jogo de War
 	Cadastro de territórios com structs, sistema de missões aleatórias, simulação de ataque com dados, uso de ponteiros e alocação dinâmica de memória
-
 Mochila Free Fire
 	Sistema de inventário inspirado em jogos de sobrevivência: cadastro de itens (armas, munições, kits médicos), remoção, listagem e busca sequencial utilizando structs e vetores, com interatividade via terminal
 
